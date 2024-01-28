@@ -1,5 +1,7 @@
 
-# Android Cambio
+<h1 align="center" id="title">Android Cambio</h1>
+
+<p align="center"><img src="https://socialify.git.ci/tiagoaraujo00/android-cambio/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
 O aplicativo Android Cambio oferece uma maneira intuitiva e eficiente de converter diferentes moedas, proporcionando aos usuários uma experiência fluida e informativa. Desenvolvido em Kotlin usando o Android Studio, o aplicativo utiliza as melhores práticas de design e tecnologias Android para garantir uma funcionalidade robusta.
 
